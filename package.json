@@ -74,7 +74,7 @@
       "^.+\\.vue$": "vue3-jest"
     }
   },
-  "name": "recips",
+  "name": "recipes",
   "prettier": {
     "printWidth": 120,
     "semi": false
