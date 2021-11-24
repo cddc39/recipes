@@ -6,3 +6,4 @@ A vue.js webapp for recipes
 
 - make a recipe list
 - update recipes
+- share recipes
